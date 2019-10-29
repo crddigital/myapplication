@@ -35,6 +35,9 @@ public class MyGit extends UI {
                     + ", it works!"));
         });
         
+        
+        System.out.println("Vamos con el push!!");
+        
         layout.addComponents(name, button);
         
         setContent(layout);
